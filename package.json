@@ -1,0 +1,21 @@
+{
+  "name": "fininikoscv",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "server.js",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "express": "^4.17.1",
+    "jquery-circle-progress": "^1.2.2"
+  },
+  "devDependencies": {
+    "connect-livereload": "^0.6.1",
+    "livereload": "^0.9.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

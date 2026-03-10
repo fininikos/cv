@@ -115,7 +115,6 @@ By default, top navigation bar uses "fixed" position
   border-right: 1px solid #222;
   /* For IE, the outcast */
   zoom: 1;
-  display: inline;
 }
 
 #section-topbar ul#nav>li {
