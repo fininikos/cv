@@ -165,7 +165,7 @@ SECTION WRAPS
 #headerwrap {
   /*background: url(../img/header-bg.jpg) no-repeat center top;*/
   /*background: url(../img/BoB_JC_1610_1346-removebg-preview.jpg) no-repeat center top;*/
-  background: url(../assets/Nikolaos_Fininis_Collage_27.png) no-repeat center top;
+  background: url(../assets/Nikolaos_Fininis_Collage_27.png?lala=koko) no-repeat center top;
   /*background: url(../img/BoB_JC_1610_1346.jpg) no-repeat center top;*/
 
   margin-top: 60px;
